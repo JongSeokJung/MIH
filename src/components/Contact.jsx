@@ -6,9 +6,9 @@ function Contact() {
 
   const sendEmail = (e) => {
     e.preventDefault();
-    const PUBLIC_KEY = import.meta.env.PUBLIC_KEY;
-    const TEMPLATE_ID = import.meta.env.TEMPLATE_ID;
-    const SERVICE_ID = import.meta.env.SERVICE_ID;
+    const PUBLIC_KEY = import.meta.env.VITE_PUBLIC_KEY;
+    const TEMPLATE_ID = import.meta.env.VITE_TEMPLATE_ID;
+    const SERVICE_ID = import.meta.env.VITE_SERVICE_ID;
 
     console.log(PUBLIC_KEY);
     console.log(TEMPLATE_ID);
