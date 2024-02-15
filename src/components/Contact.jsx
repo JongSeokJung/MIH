@@ -6,9 +6,9 @@ function Contact() {
 
   const sendEmail = (e) => {
     e.preventDefault();
-    const PUBLIC_KEY = import.meta.envPUBLIC_KEY;
-    const TEMPLATE_ID = import.meta.envTEMPLATE_ID;
-    const SERVICE_ID = import.meta.envSERVICE_ID;
+    const PUBLIC_KEY = import.meta.env.PUBLIC_KEY;
+    const TEMPLATE_ID = import.meta.env.TEMPLATE_ID;
+    const SERVICE_ID = import.meta.env.SERVICE_ID;
 
     emailjs.sendForm(SERVICE_ID, TEMPLATE_ID, form.current, PUBLIC_KEY).then(
       (result) => {

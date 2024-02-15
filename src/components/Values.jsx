@@ -14,7 +14,7 @@ function Values() {
             <h1 className="text-white text-xl sm:text-2xl md:text-3xl mb-2">
               Customer Loyalty
             </h1>
-            <p className="text-base sm:text-xl">
+            <p className="text-lg sm:text-xl">
               We are unwaveringly devoted to ensuring that every interaction
               with us is exceptional. By addressing your concerns and actively
               listening, we aim to enhance your overall experience.
@@ -28,7 +28,7 @@ function Values() {
             <h1 className="text-white text-xl sm:text-2xl md:text-3xl mb-2">
               Continuous Innovation
             </h1>
-            <p className="text-base sm:text-xl">
+            <p className="text-lg sm:text-xl">
               At MIH Merchants, we are dedicated to constant improvement. We
               focus on evolving and learning, thereby contributing to the growth
               and profitability of our clients.
@@ -42,7 +42,7 @@ function Values() {
             <h1 className="text-white text-xl sm:text-2xl md:text-3xl mb-2">
               Excellence in Service
             </h1>
-            <p className="text-base sm:text-xl">
+            <p className="text-lg sm:text-xl">
               Our solid team and leadership are committed to providing the best
               services in the industry. We aspire to be leaders, ensuring that
               our customers receive optimal care.
@@ -56,7 +56,7 @@ function Values() {
             <h1 className="text-white text-xl sm:text-2xl md:text-3xl mb-2">
               Ownership in Commerce
             </h1>
-            <p className="text-base sm:text-xl">
+            <p className="text-lg sm:text-xl">
               We take accountability for our actions, whether they be mistakes
               or successes. Our pledge is to channel our energy into offering
               the finest services to your business and the end consumer.

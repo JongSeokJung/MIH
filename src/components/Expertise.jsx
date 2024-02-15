@@ -9,7 +9,7 @@ function Expertise() {
           <img src="./work.svg" />
         </div>
 
-        <p className="text-base sm:text-xl md:text-2xl">
+        <p className="text-lg sm:text-xl md:text-2xl">
           As a wholesale distributor, we cater to clients across the United
           States, serving diverse industries such as restaurants, retail stores,
           convenience stores, hobby shops, and more.
