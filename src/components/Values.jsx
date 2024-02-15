@@ -2,7 +2,7 @@ function Values() {
   return (
     <section id="values">
       <div className="container flex-row mx-auto px-10 py-20">
-        <h1 className="text-center title-font text-2xl sm:text-3xl md:text-4xl mb-4 font-medium text-white">
+        <h1 className="text-center title-font text-3xl md:text-4xl mb-4 font-medium text-white">
           Our Core Values
         </h1>
         <div className="lg:grid lg:grid-cols-2 lg:items-start gap-16 md:flex md:flex-col md:gap-24 items-center">
@@ -11,7 +11,7 @@ function Values() {
               className="object-contain h-48 w-96 object-center rounded-full mb-12"
               src="./promise.svg"
             />
-            <h1 className="text-white text-xl sm:text-2xl md:text-3xl mb-2">
+            <h1 className="text-white text-2xl md:text-3xl mb-2">
               Customer Loyalty
             </h1>
             <p className="text-lg sm:text-xl">
@@ -25,7 +25,7 @@ function Values() {
               className="object-contain h-48 w-96 object-center rounded-full mb-12"
               src="./innovation.svg"
             />
-            <h1 className="text-white text-xl sm:text-2xl md:text-3xl mb-2">
+            <h1 className="text-white text-2xl md:text-3xl mb-2">
               Continuous Innovation
             </h1>
             <p className="text-lg sm:text-xl">
@@ -39,7 +39,7 @@ function Values() {
               className="object-contain h-48 w-96 object-center rounded-full mb-12"
               src="./team.svg"
             />
-            <h1 className="text-white text-xl sm:text-2xl md:text-3xl mb-2">
+            <h1 className="text-white text-2xl md:text-3xl mb-2">
               Excellence in Service
             </h1>
             <p className="text-lg sm:text-xl">
@@ -53,7 +53,7 @@ function Values() {
               className="object-contain h-48 w-96 object-center rounded-full mb-12"
               src="./contract.svg"
             />
-            <h1 className="text-white text-xl sm:text-2xl md:text-3xl mb-2">
+            <h1 className="text-white text-2xl md:text-3xl mb-2">
               Ownership in Commerce
             </h1>
             <p className="text-lg sm:text-xl">

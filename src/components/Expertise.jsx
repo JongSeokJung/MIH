@@ -2,7 +2,7 @@ function Expertise() {
   return (
     <section id="expertise">
       <div className="container flex-row mx-auto px-10 py-20">
-        <h1 className="text-center title-font text-2xl sm:text-3xl md:text-4xl mb-4 font-medium text-white">
+        <h1 className="text-center title-font text-3xl md:text-4xl mb-4 font-medium text-white">
           Our Expertise
         </h1>
         <div className="w-full flex justify-center my-12">
