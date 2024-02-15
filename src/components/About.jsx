@@ -3,7 +3,7 @@ function About() {
     <section id="about">
       <div className="container mx-auto flex px-10 sm:py-20 py-10 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-4 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-          <h1 className="title-font md:text-3xl text-2xl mb-4 font-medium text-white">
+          <h1 className="title-font md:text-3xl mb-4 font-medium text-white">
             Make-it-happen Merchants
           </h1>
           <p className="mb-4 leading-relaxed sm:text-xl text-lg ">
