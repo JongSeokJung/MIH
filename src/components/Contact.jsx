@@ -10,6 +10,10 @@ function Contact() {
     const TEMPLATE_ID = import.meta.env.TEMPLATE_ID;
     const SERVICE_ID = import.meta.env.SERVICE_ID;
 
+    console.log(PUBLIC_KEY);
+    console.log(TEMPLATE_ID);
+    console.log(SERVICE_ID);
+
     emailjs.sendForm(SERVICE_ID, TEMPLATE_ID, form.current, PUBLIC_KEY).then(
       (result) => {
         console.log(result.text);
